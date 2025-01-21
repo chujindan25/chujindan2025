@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/chujindan2025/static/css/main.f3c3da65.css",
-    "main.js": "/chujindan2025/static/js/main.77b9aed2.js",
+    "main.js": "/chujindan2025/static/js/main.5d8ecd62.js",
     "static/media/EliceDigitalBaeum_Regular.ttf": "/chujindan2025/static/media/EliceDigitalBaeum_Regular.7d6ca1689a138e53fc8a.ttf",
+    "static/media/selfIntro.jpg": "/chujindan2025/static/media/selfIntro.ee977a3732bb251b347b.jpg",
     "static/media/012.jpg": "/chujindan2025/static/media/012.d80916aa3e2a12d32d7a.jpg",
     "static/media/017.jpg": "/chujindan2025/static/media/017.c86eaf2de90e1abcea82.jpg",
     "static/media/018.jpg": "/chujindan2025/static/media/018.5e27e1195f22ddecb4ce.jpg",
@@ -21,17 +22,16 @@
     "static/media/015.jpg": "/chujindan2025/static/media/015.42fed25ce22c7271cf2d.jpg",
     "static/media/drinkGuide1.jpg": "/chujindan2025/static/media/drinkGuide1.e8e66b267942a5ef8ba0.jpg",
     "static/media/drinkGuide2.jpg": "/chujindan2025/static/media/drinkGuide2.c13c4cf8535f1dc11b9a.jpg",
-    "static/media/selfIntro.jpg": "/chujindan2025/static/media/selfIntro.6853cc6aab12522377e8.jpg",
     "static/media/001.jpg": "/chujindan2025/static/media/001.78065c9cf002f36ec8c9.jpg",
     "static/media/timetable.jpg": "/chujindan2025/static/media/timetable.4675083a4c3e0f9bd5ea.jpg",
     "static/media/002.jpg": "/chujindan2025/static/media/002.4fa8e75069c6b8bba961.jpg",
     "static/media/logo.png": "/chujindan2025/static/media/logo.915fb1be8dc5a85d79e2.png",
     "index.html": "/chujindan2025/index.html",
     "main.f3c3da65.css.map": "/chujindan2025/static/css/main.f3c3da65.css.map",
-    "main.77b9aed2.js.map": "/chujindan2025/static/js/main.77b9aed2.js.map"
+    "main.5d8ecd62.js.map": "/chujindan2025/static/js/main.5d8ecd62.js.map"
   },
   "entrypoints": [
     "static/css/main.f3c3da65.css",
-    "static/js/main.77b9aed2.js"
+    "static/js/main.5d8ecd62.js"
   ]
 }
